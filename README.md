@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Yuriy. I'm from Uzbekistan, Tashkent. Currently live in Moscow.
+QA Automation Engineer — Python, Pytest, Selenium, CI/CD. I build test frameworks and tools for EEG/sleep research.
 
 <!--
 **yuriy-mikityuk/yuriy-mikityuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
