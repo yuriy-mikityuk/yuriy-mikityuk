@@ -4,8 +4,6 @@
 
 I design and build test automation frameworks from scratch — UI, API, and backend. Before QA I worked as a Python backend developer, so I'm comfortable going deep into the systems I test. Outside of work I build side projects across low-latency trading systems, neurotech, and e-commerce.
 
-📍 Moscow (originally from Tashkent) · Open to QA Automation / SDET roles — remote, hybrid, or on-site
-
 ---
 
 ## What I work with
